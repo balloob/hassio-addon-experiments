@@ -8,6 +8,7 @@
   "boot": "auto",
   "options": {},
   "schema": {},
+  "url": "https://github.com/balloob/hassio-addon-experiments/tree/master/openhab",
   "ports": {
     "8080/tcp": 8080
   }
